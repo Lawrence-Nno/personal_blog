@@ -7,7 +7,7 @@ This project is my first official shot at working with Python's Flask Module and
 - [Web/Browsers] - This script once deployed, runs on the browser.
 
 ## Demo
-[![Watch the Demo](https://img.youtube.com/vi/l8lVXX0Z1-c/0.jpg)](https://www.youtube.com/watch?v=l8lVXX0Z1-c)
+[![Watch the Demo](https://github.com/Lawrence-Nno/personal_blog/blob/main/blog_sample.png)](https://www.youtube.com/watch?v=l8lVXX0Z1-c)
 
 ## Author
 - Lawrence Nno lawrence.nno@gmail.com
